@@ -14,6 +14,7 @@ function taskNext() {
   return combination;
 }
 
+
 module.exports = {
   taskFirst,
   getLast,
