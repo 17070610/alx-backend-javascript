@@ -1,0 +1,15 @@
+# 0x01. ES6 Promises
+
+## Description
+
+This directory covers the introduction to JavaScript Promise, Await, Async function, Throw/Try
+
+## Learning Objectives
+
+At te end of this project, you are expected to be able to explain to anyone, without the help of **Google**:
+* Promises (how, why, and what)
+* How to use the ```then```, ```resolve```, ```catch``` methods
+* How to use every method of the Promise object
+* Throw / Try
+* The await operator
+* How to use an ```async``` function
